@@ -48,6 +48,14 @@ color: var(--color-primary);
         
         grid-template-columns: 1fr;
     }
+    .experience_container > div {
+        width: 90%;
+        padding: 2rem;
+        margin: 0 auto;
+    }
+    .experience_content{
+        padding: 1rem;
+    }
         
     #experience{
         margin-top: 20rem;
@@ -56,7 +64,12 @@ color: var(--color-primary);
 
 
     /* ==========================media queries (small device)================== */
-    @media screen and (max-width: 600px) {
-
-        
+    @media screen and (max-width: 600px) {  
+        .experience_container {
+            gap: 1rem;
+        }
+        .experience_container > div {
+            width: 100%;
+            padding: 2rem 1rem;
+        }
     }
