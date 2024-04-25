@@ -36,7 +36,7 @@ const About = () => {
               <small> 150+ projects </small>
             </article>
           </div>
-          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem assumenda neque nihil quidem. Ducimus, aliquam ea harum consectetur, repellendus, recusandae nulla deserunt id magnam accusantium pariatur architecto tempora facere aspernatur!</p>
+          <p>I m a passionate MERN (MongoDB, Express.js, React.js, Node.js) stack developer with a keen interest in crafting robust and scalable web applications. With one year of hands-on experience in the field, I thrive on tackling complex challenges and turning them into elegant solutions.</p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>

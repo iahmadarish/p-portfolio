@@ -14,31 +14,31 @@ const Service = () => {
           <ul className='service_list'>
             <li>
               <FaRegCheckCircle  className='service_icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>User-Centered Design Approach.</p>
             </li>
             <li>
               <FaRegCheckCircle  className='service_icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Customization.</p>
             </li>
             <li>
               <FaRegCheckCircle  className='service_icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Responsive Design.</p>
             </li>
             <li>
               <FaRegCheckCircle  className='service_icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Visual Consistency.</p>
             </li>
             <li>
               <FaRegCheckCircle  className='service_icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Accessibility.</p>
             </li>
             <li>
               <FaRegCheckCircle  className='service_icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Prototyping and Testing.</p>
             </li>
             <li>
               <FaRegCheckCircle  className='service_icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Scalability and Future-Proofing.</p>
             </li>
           </ul>
         </article>
@@ -50,35 +50,35 @@ const Service = () => {
           <ul className='service_list'>
             <li>
               <FaRegCheckCircle  className='service_icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Full-Stack Expertise.</p>
             </li>
             <li>
               <FaRegCheckCircle  className='service_icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Customized Solutions.</p>
             </li>
             <li>
               <FaRegCheckCircle  className='service_icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Real-Time Data Handling.</p>
             </li>
             <li>
               <FaRegCheckCircle  className='service_icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Scalability and Performance.</p>
             </li>
             <li>
               <FaRegCheckCircle  className='service_icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Responsive Design.</p>
             </li>
             <li>
               <FaRegCheckCircle  className='service_icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>RESTful API Development.</p>
             </li>
             <li>
               <FaRegCheckCircle  className='service_icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Database Management.</p>
             </li>
             <li>
               <FaRegCheckCircle  className='service_icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Continuous Integration and Deployment.</p>
             </li>
           </ul>
         </article>
@@ -90,31 +90,31 @@ const Service = () => {
           <ul className='service_list'>
             <li>
               <FaRegCheckCircle  className='service_icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Comprehensive Strategy Development.</p>
             </li>
             <li>
               <FaRegCheckCircle  className='service_icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Multi-Channel Approach.</p>
             </li>
             <li>
               <FaRegCheckCircle  className='service_icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Data-Driven Decision Making.</p>
             </li>
             <li>
               <FaRegCheckCircle  className='service_icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Content Creation and Optimization.</p>
             </li>
             <li>
               <FaRegCheckCircle  className='service_icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Audience Targeting and Personalization.</p>
             </li>
             <li>
               <FaRegCheckCircle  className='service_icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Conversion Rate Optimization (CRO).</p>
             </li>
             <li>
               <FaRegCheckCircle  className='service_icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Performance Tracking and Reporting.</p>
             </li>
           </ul>
         </article>

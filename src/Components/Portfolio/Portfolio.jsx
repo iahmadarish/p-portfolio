@@ -12,21 +12,21 @@ const Portfolio = () => {
       image: img1,
       title: 'Petroil for Gash and fuel',
       github: 'https://github.com',
-      demo: 'https://h2-o-chi.vercel.app/'
+      demo: 'https://petroil-seven.vercel.app/'
     },
     {
       id: 2,
       image: img2,
       title: 'Travel Agency & tour',
       github: 'https://github.com',
-      demo: 'https://h2-o-chi.vercel.app/'
+      demo: 'https://bdtravel.vercel.app/'
     },
     {
       id: 3,
       image: img3,
       title: 'e-Commerce',
       github: 'https://github.com',
-      demo: 'https://h2-o-chi.vercel.app/'
+      demo: 'https://iahmadarish.github.io/cara-ecommerce/'
     },
     {
       id: 4,
