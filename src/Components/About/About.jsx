@@ -1,6 +1,7 @@
 import React from 'react'
 import './About.css'
-import me from '../../assets/me-about.jpg'
+// import me from '../../assets/me-about.jpg'
+import me from '../../assets/ishaq1.png'
 import { FaAward } from "react-icons/fa";
 import { RiUserStarFill } from "react-icons/ri";
 import { CiFolderOn } from "react-icons/ci";
